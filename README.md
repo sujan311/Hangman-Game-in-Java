@@ -14,7 +14,7 @@ A classic **Hangman game** implemented using **Java Swing GUI**, featuring:
 ## 🎮 Gameplay Preview
 
 ![Hangman Game Screenshot](screenshot.png)  
-*(Add your own screenshot image to the repo for better visibility)*
+
 
 ---
 
